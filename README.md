@@ -52,3 +52,9 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 | RN 8 | Os consumos de produtos por parte dos clientes são pagos no momento do check-out, com o valor restante das diárias. |
 | RN 9 | O check-in é realizado a partir de 15h e o check-out, até 12h. |
 | RN 10 | O sistema deve permitir o pagamento da reserva online e no check-out somente com cartão de crédito. |
+
+## Diagramas UML
+
+### Diagrama de Casos de Uso
+
+
