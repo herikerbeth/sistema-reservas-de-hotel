@@ -33,3 +33,7 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 ### Diagrama de Classe de Análise
 
 ![modelo de classe de análise](/images/modelo_de_classe_de_analise.png)
+
+### Diagrama de Atividades
+
+![modelo de atividades](/images/modelo_de_atividades.png)
