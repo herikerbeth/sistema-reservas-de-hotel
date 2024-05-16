@@ -22,7 +22,7 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 
 ### Diagrama de Casos de Uso
 
-![modelo de casos de uso](/images/modelo_de_casos_de_uso.png)
+![diagrama de casos de uso](/images/diagrama_de_casos_de_uso.png)
 
 #### Descrições de Casos de Uso
 
@@ -32,8 +32,12 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 
 ### Diagrama de Classe de Análise
 
-![modelo de classe de análise](/images/modelo_de_classe_de_analise.png)
+![diagrama de classe de análise](/images/diagrama_de_classe_de_analise.png)
 
 ### Diagrama de Atividades
 
-![modelo de atividades](/images/modelo_de_atividades.png)
+![diagrama de atividades do caso de uso registrar reserva](/images/diagrama_de_atividades_do_caso_de_uso_registrar_reserva.png)
+
+### Diagrama de Estados
+
+![diagrama de estados para a classe reserva](/images/diagrama_de_estados_para_a_classe_reserva.png)
