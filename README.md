@@ -41,3 +41,7 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 ### Diagrama de Estados
 
 ![diagrama de estados para a classe reserva](/images/diagrama_de_estados_para_a_classe_reserva.png)
+
+### Diagrama de Sequência
+
+![diagrama de estados para a classe reserva](/images/diagrama_de_sequencia_do_caso_de_uso_registrar_reserva.png)
