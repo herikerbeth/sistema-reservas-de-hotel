@@ -45,3 +45,8 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 ### Diagrama de Sequência
 
 ![diagrama de sequência do caso de uso registrar reserva](/images/diagrama_de_sequencia_do_caso_de_uso_registrar_reserva.png)
+
+### Diagrama de Comunicação
+
+![diagrama de comunicação do caso de uso registrar reserva](/images/diagrama_de_comunicacao_do_caso_de_uso_registrar_reserva.png)
+
