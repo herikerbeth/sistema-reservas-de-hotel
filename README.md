@@ -1,4 +1,4 @@
-![logo](https://github.com/herikerbeth/Sistema-de-Reservas-de-Hotel/assets/105754031/9613fe7e-ab17-4ae9-85a5-392c999d294b)# Sistema de Reservas de Hotel
+# Sistema de Reservas de Hotel
 
 ## Descrição
 
@@ -54,3 +54,6 @@ Sistema de software para a gestão de reservas de quartos online, incluindo a pr
 
 ![diagrama de classes de projeto para o caso de uso registrar reserva](/images/diagramas/diagrama_de_classes_de_projeto_para_o_caso_de_uso_registrar_reserva.png)
 
+### Diagrama de Componentes
+
+![diagrama de componentes](/images/diagramas/diagrama_de_componentes.png)
